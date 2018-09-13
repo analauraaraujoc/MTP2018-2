@@ -1,5 +1,5 @@
 /* P0.c */
-/* Ana Laura Araújo Costa */
+/* Ana Laura AraÃºjo Costa */
 /* 11811EEL020 */
 
 #include <stdio.h>
