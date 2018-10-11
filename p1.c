@@ -33,11 +33,11 @@ aux = 2;
 estado = aux; 
 }
 if(estado ==0){
-printf(" numero digitado.%s Eh multiplo de tres",bits);
+printf(" numero digitado.%s Eh multiplo de 3",bits);
 }
 else
 {
-printf(" numero digitado.%s Nao eh multiplo de tres",bits);
+printf(" numero digitado.%s Nao eh multiplo de 3",bits);
 }
 return 0;
 }
