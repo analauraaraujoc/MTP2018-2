@@ -1,5 +1,5 @@
 /* P3.c */
-/* Ana Laura Araújo Costa */
+/* Ana Laura AraÃºjo Costa */
 /* 11811EEL020 */
 
 #include <stdio.h>
@@ -9,7 +9,7 @@ int main()
     int i=0, cum=0;
 	char bits[256];  
 	scanf("%s", bits);
-for(i=0;bits[i]!= '\0';i++)
+        for(i=0;bits[i]!= '\0';i++)
 	{
     	if(bits[i] >= 48 && bits[i] <= 57) 
 		{
