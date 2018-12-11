@@ -1,5 +1,5 @@
 /* P6.c */
-/* Ana Laura Araújo Costa */
+/* Ana Laura AraÃºjo Costa */
 /* 11811EEL020 */
 
 #include <stdio.h>
@@ -10,6 +10,7 @@
 typedef struct 
 {
   float a, b;
+  float x, y;
 }
 Pont;
 int main()
@@ -19,7 +20,7 @@ int main()
 	Pont *ab;
     printf("Digite o total de pontos: ");
     scanf("%i", &N);
-    getche();
+    getchar();
     ab= (Pont*) malloc(N*sizeof(Pont)); 
     printf("\n\n");
     for(j=0; j<N; j++)
